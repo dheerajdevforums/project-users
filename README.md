@@ -3,7 +3,7 @@
 ## Pre-requisite
 1. NodeJS >= v18.20.3
 2. NPM >= v10.7.0
-3. Database created - To run migration
+3. Database created in PostgreSQL with name 'My-account' (provided in shared doc)
 
 ## Configure the Shared ORM Library
 1. Open a new terminal window
