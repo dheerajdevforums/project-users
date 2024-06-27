@@ -6,7 +6,7 @@ To install the Frontend App, follow these steps:
     cp .env.example .env
     ```
 
-2. Enter the credentials in .env
+2. Enter the credentials in .env or keep default
 
 4. Install the required dependencies
     ```bash
