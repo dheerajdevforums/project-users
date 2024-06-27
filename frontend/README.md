@@ -1,7 +1,4 @@
 ```bash
-# Set the environment to development
-export NODE_ENV=development
-
 # Copy .env.example and rename as .env
 ## Fill the required credentials
 
