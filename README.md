@@ -1,5 +1,9 @@
 # Project Users
 
+## Pre-requisite
+1. NodeJS >= v18.20.3
+2. NPM >= v10.7.0
+
 ## Configure the Shared ORM Library
 1. Open a new terminal window
 2. Navigate to shared-orm-library directory
