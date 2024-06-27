@@ -13,9 +13,12 @@ To install the shared ORM library, follow these steps:
     ```shell
     npm install --save-dev sequelize-cli
     ```
-3. Setup credentials by creating a copy of .env.example and name the file as .env
+3. Copy .env.example and rename as .env
+    ```bash
+    cp .env.example .env
+    ```
 
-4. Fill the required credentials
+4. Enter the credentials in .env
 
 ## Database Migration
 

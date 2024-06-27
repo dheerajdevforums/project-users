@@ -18,7 +18,9 @@ To install the shared ORM library, follow these steps:
     npm install
     ```
 
-5. Start the application
+## Running the Backend Service
+
+1. To start the service
     ```bash
     npm start
     ```

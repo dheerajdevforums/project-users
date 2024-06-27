@@ -1,10 +1,21 @@
-```bash
-# Copy .env.example and rename as .env
-## Fill the required credentials
+## Installation
+To install the Frontend App, follow these steps:
 
-# Install the required dependencies
-npm install
+1. Copy .env.example and rename as .env
+    ```bash
+    cp .env.example .env
+    ```
 
-# Start the application
-npm start
-```
+2. Enter the credentials in .env
+
+4. Install the required dependencies
+    ```bash
+    npm install
+    ```
+
+## Running the Application
+
+1. To start the application
+    ```bash
+    npm start
+    ```
