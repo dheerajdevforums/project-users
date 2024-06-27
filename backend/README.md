@@ -1,13 +1,24 @@
-```bash
-# Set the environment to development
-export NODE_ENV=development
+## Installation
+To install the shared ORM library, follow these steps:
 
-# Copy .env.example and rename as .env
-## Fill the required credentials
+1. Set the environment to development
+    ```bash
+    export NODE_ENV=development
+    ```
 
-# Install the required dependencies
-npm install
+2. Copy .env.example and rename as .env
+    ```bash
+    cp .env.example .env
+    ```
 
-# Start the application
-npm start
-```
+3. Enter the credentials in .env
+
+4. Install the required dependencies
+    ```bash
+    npm install
+    ```
+
+5. Start the application
+    ```bash
+    npm start
+    ```
